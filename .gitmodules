@@ -1,0 +1,6 @@
+[submodule "CDWeb-cake-shop-backend"]
+	path = CDWeb-cake-shop-backend
+	url = https://github.com/HQLuat/CDWeb-cake-shop-backend.git
+[submodule "CDWeb-cake-shop-frontend"]
+	path = CDWeb-cake-shop-frontend
+	url = https://github.com/HQLuat/CDWeb-cake-shop-frontend.git
